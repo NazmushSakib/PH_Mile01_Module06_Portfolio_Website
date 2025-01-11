@@ -63,6 +63,8 @@
   background-image: url(../images/developer.png), url(../images/header_bg.png);
   background-repeat: no-repeat;
   background-position: top left, bottom right;
+  /* padding-top: 20px; */
+  background
 }
 
 /*!  Nav Bar style */
@@ -71,7 +73,10 @@
   display: flex;
   align-items: center;
   justify-content : space-between;
-  margin: 50px 230px;
+  /* margin: 50px 230px; */
+  margin-right: 230px;
+  margin-left: 230px;
+  padding-top: 50px;
 }
 
 .nav-title{
