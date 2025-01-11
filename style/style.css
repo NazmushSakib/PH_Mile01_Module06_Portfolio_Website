@@ -43,6 +43,7 @@
 
 .btn-primary{
   padding: 18px 35px 19px 36px;
+  margin-right: 30px;
 }
 
 .section-title{
@@ -119,8 +120,12 @@ nav ul li a{
 }
 
 .btn-contact{
-  /* margin-left: 230px; */
-  /* TODO: adding color */
+  color:#FD6E0A;
+  background-color: #FFF8F3;
+  border: solid 1px #FD6E0A;
+  /* border-color: #FD6E0A; */
+
+  
 }
 
 .banner-profile-pic{
@@ -251,6 +256,7 @@ main{
   text-align: center;
   margin-top: 50px;
   margin-bottom: 113px;
+  
 }
 
 /*! Footer section style */
